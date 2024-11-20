@@ -97,7 +97,7 @@ incremental update of v0.6 and can be generated as follows::
 Project resources
 =================
 
-- `Website <http://www.pimusicbox.com/>`_
+- `Website <https://pimusicbox.github.io/>`_
 - `Discussion forum <https://discourse.mopidy.com/c/pi-musicbox>`_
 - `Source code <https://github.com/pimusicbox/pimusicbox>`_
 - `Changelog <https://github.com/pimusicbox/pimusicbox/blob/develop/docs/changes.rst>`_
